@@ -7,7 +7,9 @@
 ## 说明
 
 主要就是编写一个plist文件，然后做一个链接指向这个plist文件，plist文件必须放在 https 下，借用了 github ，放在
+
 https://raw.githubusercontent.com/MistChen/OTARelease/master/OTATestForKent/OTATestForKent.plist
+
 这个plist文件用来描述相关参数，主要有以下几个：
 
 * `bundle-identifier` : app的id，随便命名，plist 文件中的名字和app定义中名字必须一致，这个这个demo中用的是 `MistChen.OTATest`
