@@ -23,9 +23,9 @@ https://raw.githubusercontent.com/MistChen/OTARelease/master/OTATestForKent/OTAT
 
 ##下载
 
-<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/MistChen/OTARelease/master/OTATestForKent/OTATestForKent.plist">点击下载 OTATest<a>
+下载链接被 markdown 和 github 合伙和谐掉了，移步到
 
-This is [an example](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/MistChen/OTARelease/master/OTATestForKent/OTATestForKent.plist "Title") inline link.
+[这个页面下载](http://7xnw7w.com1.z0.glb.clouddn.com/index.html)
 
 下载链接需要实用 `itms-services` 协议，具体是 `itms-services://?action=download-manifest&url=`，url 后面接上 plist 的地址就ok了，你可以看看这页的源代码
 
