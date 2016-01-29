@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://a.b.c/JiaeD2C_release.ipa</string>
+					<string>https://github.com/MistChen/OTARelease/raw/master/OTATestForKent/OTATest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
