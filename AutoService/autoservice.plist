@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>http://demo.outsourceax.net/software/autoservice.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string></string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string></string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -35,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SampleBroadcaster</string>
+				<string>奥车服务</string>
 			</dict>
 		</dict>
 	</array>
